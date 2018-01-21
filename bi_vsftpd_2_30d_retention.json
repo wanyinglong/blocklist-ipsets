@@ -1,0 +1,24 @@
+{
+	"ipset": "bi_vsftpd_2_30d",
+	"started": 1512342281000,
+	"updated": 1515258288000,
+	"incomplete": 0,
+	"past": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	},
+	"current": {
+		"hours": [ 
+			0,
+			545,
+			594,
+			618 ],
+		"ips": [ 
+			1,
+			1,
+			13,
+			25 ],
+		"total": 40
+	}
+}

@@ -1,0 +1,42 @@
+[
+	{
+		"code": "BE",
+		"value": 8
+	},
+	{
+		"code": "CA",
+		"value": 5
+	},
+	{
+		"code": "DE",
+		"value": 1
+	},
+	{
+		"code": "FR",
+		"value": 4
+	},
+	{
+		"code": "GB",
+		"value": 2
+	},
+	{
+		"code": "HK",
+		"value": 1
+	},
+	{
+		"code": "NL",
+		"value": 2
+	},
+	{
+		"code": "PS",
+		"value": 5
+	},
+	{
+		"code": "RU",
+		"value": 14
+	},
+	{
+		"code": "US",
+		"value": 7
+	}
+]
